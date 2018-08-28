@@ -1,0 +1,43 @@
+.card {
+  margin-top: 100px;
+  height: 250px;
+  width: 400px;
+  border: 0;
+  border-radius: 10px;
+  background: url(http://www.psdgraphics.com/file/world-map-background.jpg)
+    no-repeat center center;
+  background-size: cover;
+  color: #fff;
+}
+.card-title {
+  font-size: 24px;
+  font-weight: bold;
+  text-align: right;
+  margin-right: 10px;
+}
+.card-logo {
+  width: 80px;
+  float: right;
+}
+.card-number {
+  height: 91px;
+  padding-top: 40px;
+  font-weight: 600;
+  font-size: 25px;
+  margin-left: 50px;
+  letter-spacing: 2px;
+}
+
+.card-name,
+.card-date {
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 16px;
+  height: 25px;
+}
+label2 {
+  color: black;
+}
+label1 {
+  color: white;
+}
